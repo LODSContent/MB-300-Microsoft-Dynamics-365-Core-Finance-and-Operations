@@ -34,8 +34,7 @@ lab:
 
 14. Select **Show Filter** control as you see in the image below.  
     
-
-    ![](media/0e1fb7ccf3b01a546897152e5d1444d7.png)
+    ![](Instructions/media/ShowFiltersButton.PNG)
 
 15. Select **Add+**.
 
