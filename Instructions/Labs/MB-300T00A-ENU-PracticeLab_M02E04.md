@@ -35,7 +35,7 @@ lab:
 
 7.  **Enter** your credentials and password.
 
-8.  The **workflow editor** appears.
+8.  The **workflow editor** appears. The **Workflow Editor** may not appear above other windows, check the **Taskbar** for the Editor icon.
 
 #### Drag workflow elements onto the canvas
 
