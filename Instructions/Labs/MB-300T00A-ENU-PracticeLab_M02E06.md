@@ -18,7 +18,7 @@ and value streams. Perform the following steps to create an operating unit.
 1.  Navigate to **Organization administration \> Organizations \> Operating
     units**.
 
-2.  Select **New** to open the drop dialog.
+2.  Select **+New** to open the drop dialog.
 
 3.  In the list, find and select the type of operating unit you want to create.
 
