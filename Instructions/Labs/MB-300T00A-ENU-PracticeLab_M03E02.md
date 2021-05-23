@@ -24,13 +24,13 @@ lab:
 
 6.  In the **Project category,** select **Project**.
 
-7.  Select **Add entity**.
+7.  Select **+Add entity**.
 
 8.  In the **Entity name** field, enter **Item groups**.
 
 9.  In the **Target data format,** select **EXCEL**
 
-10. Select **Add**.
+10. Select **+Add**.
 
 11. Select **Close**.
 
@@ -42,7 +42,7 @@ lab:
 
 15. Select **Applicable legal entities**.
 
-16. Select **New**.
+16. Select **+New**.
 
 17. In the **Data area** field, enter or select **USMF**.
 
