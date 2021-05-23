@@ -15,7 +15,7 @@ processing.
 
 1.  Go to **System administration \> Inquiries \> Batch jobs**.
 
-2.  Select **New**.
+2.  Select **+New**.
 
 3.  In the **Job description** field, enter “My Batch Job”.
 
