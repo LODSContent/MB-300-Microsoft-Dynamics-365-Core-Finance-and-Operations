@@ -13,7 +13,7 @@ To complete this exercise, you should:
 1.  In the navigation pane, go to **Modules \> Fixed assets \> Fixed assets \>
     Fixed assets**.
 
-2.  Select **New**.
+2.  Select **+New**.
 
 3.  In the **Fixed asset group** field, enter or select **Computer**.
 
