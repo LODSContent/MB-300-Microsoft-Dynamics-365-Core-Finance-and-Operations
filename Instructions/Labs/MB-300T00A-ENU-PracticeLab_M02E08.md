@@ -17,13 +17,13 @@ Use the following procedure to create an organizational hierarchy.
 1.  Navigate to **Organization administration \> Organizations \> Organization
     hierarchies**.
 
-2.  Select **New**.
+2.  Select **+New**.
 
 3.  In the **Name** field, enter a value.
 
 4.  Select **Assign purpose**.
 
-5.  Select **Add**.
+5.  Select **+Add**.
 
 6.  In the list, select the hierarchy you just created.
 
