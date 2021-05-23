@@ -18,7 +18,7 @@ create a legal entity.
 1.  Navigate to **Organization administration \> Organizations \> Legal
     entities**.
 
-2.  Select **New**.
+2.  Select **+New**.
 
 3.  In the **Name** field, enter ‘**Litware, Inc**.’.
 
