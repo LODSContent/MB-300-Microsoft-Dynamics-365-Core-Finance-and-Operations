@@ -23,7 +23,7 @@ To complete this exercise, you should:
 
 3. Select **+New**.
 
-4. Select **Sales order**.
+4. Select **Sales order** and then select **New**.
 
 5. In the **Customer account** field, enter or select customer **US-004
         Cave Wholesale**.
