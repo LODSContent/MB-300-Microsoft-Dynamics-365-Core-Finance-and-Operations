@@ -21,7 +21,7 @@ To complete this exercise, you should:
 
 2. Select **Sales order processing and inquiry** workspace.
 
-3. Select **New**.
+3. Select **+New**.
 
 4. Select **Sales order**.
 

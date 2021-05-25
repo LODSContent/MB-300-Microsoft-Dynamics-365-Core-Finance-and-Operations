@@ -37,7 +37,7 @@ lab:
 
     ![](media/0e1fb7ccf3b01a546897152e5d1444d7.png)
 
-15. Select **Add+**.
+15. Select **+Add**.
 
 16. Select the **Name** check box.
 

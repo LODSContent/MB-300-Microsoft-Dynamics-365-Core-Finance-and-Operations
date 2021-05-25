@@ -26,7 +26,7 @@ lab:
     navigation is almost always done from the modules selection on the left
     side.*
 
-2.  Select **New**.
+2.  Select **+New**.
 
 3.  In the **User ID** field, enter **DynUser1**.
 

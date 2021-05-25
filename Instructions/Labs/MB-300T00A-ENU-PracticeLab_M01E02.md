@@ -29,7 +29,7 @@ ER configuration providers are shared among all companies.
 
 3.  Go to **Related links > Configuration providers**.
 
-4.  Select **New**.
+4.  Select **+New**.
 
 5.  In the Name field, type **Litware, Inc.**
 
@@ -137,19 +137,19 @@ type** tag.
 
 4.  Click **Ok**.
 
-5.  Click **Add.**
+5.  Click **+Add**
 
 6.  Select **Accounts receivable manager.**
 
 7.  Click **Ok**.
 
-8.  Under the **Access permission per tags of configuration**, click **New.**
+8.  Under the **Access permission per tags of configuration**, click **+New.**
 
 9.  Select **Functional area** in the **Tag type** field.
 
 10. Select **invoicing** in the **Id** field.
 
-11. Under the **Access permission per configuration** section, click **Add.**
+11. Under the **Access permission per configuration** section, click **+Add.**
 
 12. Select **Customer FTI report (GER)** in the **Name** field.
 

@@ -18,7 +18,7 @@ lab:
 1.  Go to **System administration \> Security \> Segregation of duties \>
     Segregation of duties rules**.
 
-2.  Select **New**.
+2.  Select **+New**.
 
 3.  In the **Name** field, enter a name for the rule such as ‘My Segregation of
     duties rule’.
