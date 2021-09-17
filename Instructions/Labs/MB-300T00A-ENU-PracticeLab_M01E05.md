@@ -1,7 +1,7 @@
 ---
 lab:
     title: 'Exercise 05: Prepare, enable, and use business document management'
-    module: 'Module 01: Use common functionality and implementation tools'
+    module: 'Module 01:  Describe Finance and Operations Apps, and extend apps by using Microsoft Power Platform technologies'
 ---
 ## Exercise 5: Prepare, enable, and use business document management
 
