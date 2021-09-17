@@ -1,6 +1,6 @@
 ---
 lab:
-    title: 'Exercise 06: Create an organization hierarchy'
+    title: 'Exercise 07: Create an organization hierarchy'
     module: 'Module 02:  Configure administrative features and workflows'
 --- 
 ## Exercise 7: Create an organization hierarchy
