@@ -2,6 +2,7 @@
 lab:
     title: 'Exercise 01: Work with operational workspace'
     module: 'Module 01: Perform searches and work with filters'
+---    
 ## Exercise 2: Perform searches and work with filters
 
 1. Select **Modules** from left navigation bar as shown below.
