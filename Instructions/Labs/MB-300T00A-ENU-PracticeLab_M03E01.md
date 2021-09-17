@@ -1,8 +1,8 @@
 ---
 lab:
     title: 'Exercise 01: Work with template in the Data Management Workspace'
-    module: 'Module 03:  Manage Finance and Operations Data
---- 
+    module: 'Module 03: Manage Finance and Operations data'
+---
 ## Exercise 1: Work with template in the Data Management Workspace
 
 The goal of the lab exercise is to apply the knowledge we have learned regarding the Data management workspace.
