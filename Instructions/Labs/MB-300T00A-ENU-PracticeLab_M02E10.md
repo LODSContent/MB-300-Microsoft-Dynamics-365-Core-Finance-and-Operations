@@ -1,99 +1,30 @@
 ---
 lab:
-    title: 'Exercise 010: Use Excel workbook designer'
-    module: 'Module 02: Configure security, processes, and options'
----
-## Exercise 10: Create a batch job
+    title: 'Exercise 06: Create an organization hierarchy'
+    module: 'Module 02:  Configure administrative features and workflows'
+--- 
+## Exercise 7: Create an organization hierarchy
 
-As an administrator you need to create a batch job, which is a group of tasks
-that are submitted to an Application Object Server (AOS) instance for automatic
-processing.
+If you are signed in to Finance and Operations in the lab environment, you don’t need to sign in again, and can begin your work on this lab.
 
-### Instructions
+If you are not signed in to the lab environment yet, then go to the first lab unit in this module for instructions. Then, after you successfully sign in, use the **Next** button in the **Instructions** tab of the lab side bar to return to this lab scenario, and begin your work.
 
-#### Create the batch job
+**Scenario**
 
-1.  Go to **System administration \> Inquiries \> Batch jobs**.
+You can use organizational hierarchies to view and report on your business from various perspectives. For example, you can set up one hierarchy for tax, legal, or statutory reporting.
 
-2.  Select **+New**.
+This lab shows how to create an organization hierarchy.
 
-3.  In the **Job description** field, enter “My Batch Job”.
+1. Go to **Organization administration** > **Organizations** > **Organization hierarchies**.
 
-4.  In the **Scheduled start date/time** field, enter today’s date.
+2. Select **New**. In the **Name** field, type a value, such as **'Contoso Quality'** and then Select **Assign purpose**.
 
-5.  Select **Save**.
+3.  In the list at the left, find and select a purpose to assign to your organization hierarchy, such as **'Audit internal control'**.
 
-#### Create a recurrence
+4. Select **Add** in the **Assigned hierarchies** section. In the list, find and select the hierarchy that you just created, 'Contoso Quality'.and then select **OK**. In the list, find and select your hierarchy.
 
-1.  In the **Action** pane, select **Batch job \> Recurrence** in the legacy
-    form, or **Recurrence** in the enhanced form.
+5. Select **View hierarchy**.
 
-    -   Use these options to enter a range and pattern for the recurrence as you
-        desire, for example select daily by choosing a pattern of **Days** and
-        an interval of **1**.
+6. Add organizations, as necessary. To add an organization, select **Edit** and then select **Insert** to add the organization.
 
-2.  Select **OK**.
-
-#### Add alerts
-
-1.  In the **Action** pane, select **Batch job \> Alerts** in the legacy form,
-    or **Alerts** in the enhanced form.
-
-    -   Indicate if you want alert messages sent when the batch job ends, has an
-        error, or is canceled. Specify if you want the alerts to be displayed as
-        pop-up messages.
-
-2.  Select **OK**.
-
-#### Copy a batch job
-
-1.  Select **System administration \> Inquiries \> Batch jobs**.
-
-2.  Select the job that you want to copy, and in the **Action** pane, select
-    **Batch Job \> Copy batch job** in the legacy form, or **Copy batch job** in
-    the enhanced form.
-
-3.  Enter or add any changes. If you set **View tasks** to Yes, when you select
-    **OK** you will go directly to the **Batch tasks** page for the copied job.
-
--   The copied batch job will be created with a **Withhold** status, so you will
-    need to enable it. The **Run by** user can also be set to give this user the
-    privilege to run the job without being a system administrator.
-
-#### Enable the batch job
-
-1.  On the **Batch job** page, in the **Action** pane, select **Batch job \>
-    Change status in the legacy form, or Change status in the enhanced form**.
-
-2.  Select the **Waiting** status, and then select **OK**.
-
-#### Set up active periods for batch jobs
-
-1.  Go to **System administration \> Setup \> Active periods for batch jobs**.
-
-2.  Select **+New**.
-
-3.  Enter a new period code, for example **Night**, the name of the period, and
-    specify start and end times that the batch period is active.
-
-4.  Select **Save**.
-
-#### Assign active periods to batch jobs
-
-1.  Navigate to **System administration \> Inquiries \> Batch jobs**.
-
-2.  Select the batch job that you want to assign a period to and select
-    **Edit**.
-
-3.  In the **Active period** field, select the active period that you want to
-    assign, and then select **Save**.
-
-#### Assign the Batch manager role to a user
-
-1.  Select **System administration \> Security \> Assign users to roles**.
-
-2.  Select **Batch Job Manager** and select **Manually assign/exclude** user.
-
-3.  Select a user from the list, and then select **Assign to role**.
-
-4.  Close the page.
+7. When you are done making changes you can save a draft and/or publish the changes.
