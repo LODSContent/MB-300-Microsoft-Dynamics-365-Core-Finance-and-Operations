@@ -1,7 +1,7 @@
 ---
 lab:
     title: 'Exercise 04: Work with record templates'
-    module: 'Module 01: Describe finance and operations apps, and extend apps by using Microsoft Power Platform technologies
+    module: 'Module 01: Describe Finance and Operations Apps, and extend apps by using Microsoft Power Platform technologies'
 ---
 ## Exercise 4: Work with record templates
 
