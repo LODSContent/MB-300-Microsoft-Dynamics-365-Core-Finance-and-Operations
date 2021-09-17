@@ -1,7 +1,7 @@
 ---
 lab:
     title: 'Exercise 01: Perform searches and work with filters'
-    module: 'Module 01: Perform searches and work with filters'
+    module: 'Module 01: Describe Finance and Operations Apps, and extend apps by using Microsoft Power Platform technologies'
 ---    
 ## Exercise 2: Perform searches and work with filters
 
