@@ -1,63 +1,32 @@
 ---
 lab:
-    title: 'Exercise 03: Perform searches and work with filters'
-    module: 'Module 01: Use common functionality and implementation tools'
----
-## Exercise 3: Perform searches and work with filters
+    title: 'Exercise 03: Create search queries and save for future use'
+    module: 'Module 01: Describe Finance and Operations Apps, and extend apps by using Microsoft Power Platform technologies'
+---    
+## Exercise 3: Create search queries and save for future use
 
-1.  Go to **Accounts payable \> Vendors \> All vendors**.
+1. Select **Modules** from left navigation bar as shown below.
 
-2.  View the results.
+2. Go to **Fixed assets** > **Fixed assets** > **Fixed assets.**
 
-3.  Use the **QuickFilter** to filter on the Group field with a value of 40.
+3. Review the result.
 
-4.  View the results.
+4. Select **Options** on the action pane and then select **Advanced filter or sort** button.
 
-5.  Open **Name** column filter.
+5. In the list, find and select the **Fixed asset group**. In the **Criteria** field, enter or select **COMP** and select **OK.**
 
-6.  Enter a filter value of **Company** on the **Name** field using the
-    **contains filter** operator.
+6. Review the result.
 
-7.  Select **Apply**.
+7. Select **Advanced filter or sort** button.
 
-8.  View the results.
+8. In the list, find and select **Fixed asset number** and In the **Criteria** field, type ***1**. Select **Modify…** and then **s**elect **Save as**.
 
-9.  Open **Name** column filter.
+9. In the **Name** field, type My Query. Select **OK**.
 
-10. Select **Clear**.
+10. Select **OK**.
 
-11. Close the forms using the X on the upper right under userID (example: AD).
+11. Review the result.
 
-12. Navigate to **Default Dashboard**.
+12. Select **Advanced filter or sort** button. Select **Reset** and then select **OK**.
 
-13. Go to **Accounts receivable \> Customers \> All customers.**
-
-14. Select **Show Filter** control as you see in the image below.  
-    
-![](../media/ShowFiltersButton.PNG)
-
-15. Select **+Add**.
-
-16. Select the **Name** check box.
-
-17. Select **Insert**.
-
-18. Apply the following filters: Enter a filter value of "" on the **Account**
-    field using the **begins with** filter operator; Enter a filter value of
-    **Wholesales** on the **Name** field using the **contains filter** operator
-
-19. See the result.
-
-## Create search queries
-
-The **Advanced filter or sort** button from **Options** action pane tab launches
-the inquiry dialog box in which you can select related and derived tables to the
-form that you are working on. You can add derived tables into the **Range** tab
-and choose your desired field(s) and assign criteria.
-
-You can also set up and assign sorting, and date options, and view the joins
-based on selected criteria.
-
-Aside from the Default Dashboard, from anywhere in Dynamics 365 Finance apps,
-you can directly access the inquiry dialog box with the shortcut key
-**Ctrl+Shift+F3**.
+13. Review the result.

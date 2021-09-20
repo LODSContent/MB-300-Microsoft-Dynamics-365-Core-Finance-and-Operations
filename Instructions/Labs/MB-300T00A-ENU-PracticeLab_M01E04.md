@@ -1,48 +1,29 @@
 ---
 lab:
-    title: 'Exercise 04: Create search queries and save for future use'
-    module: 'Module 01: Use common functionality and implementation tools'
+    title: 'Exercise 04: Work with record templates'
+    module: 'Module 01: Describe Finance and Operations Apps, and extend apps by using Microsoft Power Platform technologies'
 ---
-## Exercise 4: Create search queries and save for future use
+## Exercise 4: Work with record templates
 
-1.  Go to **Fixed assets \> Fixed assets \> Fixed assets.**
+**Scenario**: In USMF you need to create a template for similar fixed assets to speedup data entry.
 
-2.  Review the result.
+To complete this exercise, you should:
 
-3.  Select **Options** on the action pane.
+1. In the navigation pane, go to **Modules** > **Fixed assets** & **Fixed assets** > Fixed assets**.
 
-4.  Select **Advanced filter or sort** button.
+2. Select **New**.
 
-5.  In the list, find and select the **Fixed asset group**.
+    - In the **Fixed asset group** field, enter or select **Computer**.
 
-6.  In the **Criteria** field, enter or select **COMP**.
+	- In the **Name** field, type a value. For example, enter Corporate lead laptop.
 
-7.  Select **OK**.
+	- In the **Search name** field, type a value. For example, enter laptop.
 
-8.  Review the result.
+	- Expand the **Technical information** section.
 
-9.  Select **Advanced filter or sort** button.
+3. In the **Make**, **Model**, and **Model year** fields, type values and On the **Action Pane**, select **Options** then select **Record info**. Select **User template**.
 
-10. In the list, find and select **Fixed asset number**.
 
-11. In the **Criteria** field, type **\*1**.
+4. In the **Name** field, type 'Comp-0069'.In the **Description** field, type 'My Computer' and then select **OK**.
 
-12. Select **Modify....**
-
-13. Select **Save as**.
-
-14. In the **Name** field, type My Query.
-
-15. Select **OK**.
-
-16. Select **OK**.
-
-17. Review the result.
-
-18. Select **Advanced filter or sort** button.
-
-19. Select **Reset**.
-
-20. Select **OK**.
-
-21. Review the result.
+5. Select **Close**.

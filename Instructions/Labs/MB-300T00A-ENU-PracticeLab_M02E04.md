@@ -1,111 +1,95 @@
 ---
 lab:
-    title: 'Exercise 04: Create a purchase requisition workflow'
-    module: 'Module 02: Configure security, processes, and options'
+    title: 'Exercise 04: Create purchase requisition workflow'
+    module: 'Module 02:  Configure administrative features and workflows'
 ---
-## Exercise 4: Create a purchase requisition workflow
+## Exercise 4: Create purchase requisition workflow
 
->   The Finance and Operations app that you're working in determines the type of
->   workflow that you can create. You need either Internet Explorer or Microsoft
->   Edge to create the type of workflow and open the workflow editor. In this
->   exercise, you will create a purchase requisition workflow in USMF. Before a
->   purchase requisition can be submitted for review, you must configure a
->   workflow.
+**Scenario**
 
-### Instructions
+The Finance and Operations module that you're working in determines the types of workflow that you can create. In this lab, you will create a purchase requisition workflow. Before a purchase requisition can be submitted for review, you need to configure the workflow.
 
-#### Create and set up workflows
+ 
 
-1.  Navigate to **Procurement and sourcing \> Setup** \> **Procurement and
-    sourcing workflows**.
+### Task 1: Create and set up workflows
 
-2.  On the list page that appears, select **New** on the **Action Pane**..
+1. In the company **USMF**, go to **Procurement and sourcing** > **Setup** > **Procurement and sourcing workflows**.
 
-3.  On the **Create workflow** page, select the **Purchase requisition line
-    review.**
+2. On the list page that appears, on the Action Pane, select **New**.On the **Create workflow** page, select the **Purchase requisition line review**.
 
-4.  For the first time, the browser will show a dialog box to open the
-    **Microsoft.Dynamics.AX.Framework.WorkflowEditorHost.application** form.
 
-5.  Select **Open**.
+3. For the first time, the browser will show a dialog box to open the **Microsoft.Dynamics.AX.Framework.WorkflowEditorHost** page.
 
-6.  Select **Run**. The workflow editor takes a few minutes to download. When it
-    is finished, the workflow editor automatically opens the **Sign in** dialog
-    box.
+**Note**
 
-7.  **Enter** your credentials and password.
+If you are not prompted to run the **Microsoft.Dynamics.AX.Framework.WorkflowEditorHost** and to log in, then restart the Internet browser in the lab environment, log in again, and perform steps 1 to 4 again.
 
-8.  The **workflow editor** appears. The **Workflow Editor** may not appear above other windows, check the **Taskbar** for the Editor icon.
+4. Select **Run** to run the framework.
 
-#### Drag workflow elements onto the canvas
 
->   To connect one workflow element to another, hold the pointer over an element
->   until connection points appear. Select a connection point and drag it to
->   another element. Be sure to connect all the elements.
+5. In the **Do you want to run this application?** dialog box, select **Run**. It takes a few minutes for the workflow editor to be downloaded. When it has finished the download, it automatically opens the **Sign in** dialog box.
 
-1.  The **Workflow elements** area of the workflow editor contains elements that
-    you can add to your workflow.
+6. Enter your credentials and password (found in the **Resources** tab on the lab side bar, in the **Azure portal** section)
 
-2.  To add elements to the workflow, drag **Review purchase requisitions** and
-    **Approve purchase requisitions** onto the canvas.
 
-3.  Connect **Start** to **Review purchase requisitions.**
+7. The workflow editor appears (this can take a couple of minutes and may open behind the browser window).
 
-4.  Connect **Review purchase requisitions** to **Approve purchase
-    requisitions.**
+### Task 2: Drag workflow elements onto the canvas
 
-5.  Connect **Approve purchase requisitions** to **End.**
+The **Workflow elements** area of the workflow editor contains the elements that you can add to your workflow.
 
-#### Configure workflow properties
+1. To add elements to the workflow, drag **Review purchase requisition lines** and **Approve purchase requisition lines** onto the canvas.
 
-1.  Select **Review purchase requisitions**
 
-2.  From the action pane, select **Properties** to open the **Properties** page.
+2. Connect **Start** to **Review purchase requisition lines**. To connect one workflow element to another, hold the pointer over an element until connection points appear (small boxes around the edges of the elements). Select a connection point and drag it to another element. Be sure to connect all the elements.
 
-3.  Enter a value in the **Name** field.
+3. Connect **Review purchase requisition lines** to **Approve purchase requisition lines**.
 
-4.  Enter a value in the **Work item subject** field. Alternatively, you can
-    also include placeholder and concatenate the text with the placeholder.
+4. Connect **Approve purchase requisition lines** to **End**.
 
-5.  Select the **Yellow** bar. This will navigate to the assignment type.
+### Task 3: Configure workflow properties
 
-6.  Select **User** and select the **User** tab.
+1. In the workflow editor canvas, select **Review purchase requisition lines** and, from the Action Pane, select **Properties** to open the **Properties** page.
 
-7.  Select a user and add it to the **Selected users** section.
+2. Enter below values and then Select **Assignment** on the left section
 
-8.  Select **Close**.
+- Enter a value in the **Name** field or accept the default.
 
-9.  Double-click on the **Approve purchase requisitions** from the action pane.
+- Enter a value in the **Work item subject** field, for example **Work item test**. Alternatively, you can also include a place holder and concatenate the text with the place holder.
 
-10. Select **Step 1**.
+- Enter a value in the **Work item instructions** field, for example "**Review this purchase requisition**".
 
-11. Select **Properties** to open the **Properties** page.
+3. In the **Assignment type** tab select **User**.
 
-12. Enter a value in the **Name** field.
+4. Select the **User** tab, and select a user, for example **ALICIA**, and add it to the **Selected users** section by using the arrow and then select **Close**. 
 
-13. Enter a value in the **Work item subject** field. Alternatively, you can
-    also include placeholder and concatenate the text with the place holder.
+**Note:** The workflow editor may hide behind the browser window, if so – then just select it from the Windows task bar to open it.
 
-14. Select the **Yellow** bar. This will navigate to the assignment type.
+5. On the pane at the bottom of the page, you will have four errors or warnings. 
 
-15. Select **User** and select the **User** tab.
+6. Select each one.
 
-16. Select a user and add it to the **Selected users** section.
+- The first will be a warning, noted by the icon on the left of an exclamation point. Select the icon to open the screen that needs to be changed. In this case, you do not have to enter anything, as you will see the warning is now gone from the bottom pane.
 
-17. Select **Close**.
+- Select the next error, **Selected assignment type “None” is not supported**.
 
-18. Select **Save and close**.
+-  On the screen that opens, select **User**. 
 
-19. Specify a version description.
+- On the **User** tab, select **Admin** or any other user, and move it over to the **Selected** users. The error will then disappear and you can close the screen from the first step.
 
-20. Select **OK**.
 
-21. Select **Activate the new version**.
+- The next message is **You must enter a message text for language en-us**. Select the message and then enter in the **Work item subject**, **Vendor invoice approval**.
 
-22. Select **OK**. It may take a few minutes for the workflow editor to finish
-    its activation process, and it will close automatically.
+	- In the **Work item instructions** (the last error message) enter **Please approve**. This will remove all error messages and your workflow is now complete.
 
-23. Navigate to **Procurement and sourcing\>Setup \> Procurement and sourcing
-    workflows**.
 
-24. Refresh the page if you do not see your new workflow.
+7. Select **Save and close** in the workflow editor. Specify version notes, for example **New workflow** and then select **OK**.
+
+
+8. Select **Activate the new version**.
+
+9. Select **OK**. It might take a few minutes for the workflow editor to finish its activation process, and then it will close automatically.
+
+10. Select **Close**.
+
+11. Refresh the **Procurement and sourcing workflows** page in Finance and Operations if you don't see your new workflow.

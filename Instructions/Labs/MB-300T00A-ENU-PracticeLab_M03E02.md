@@ -1,34 +1,33 @@
 ---
 lab:
-    title: 'Exercise 02: Export and import data'
-    module: 'Module 03: Manage Dynamics 365 Finance and Operation data'
+    title: 'Exercise 02: Export and Import the data'
+    module: 'Module 03: Manage Finance and Operations data'
 ---
-## Exercise 2: Export and import data
+## Exercise2: Export and Import the data
 
->   The goal of the lab exercise is to apply the knowledge we have learned
->   regarding the import and export data.
+The goal of the lab exercise is to apply the knowledge we have learned regarding the import and export data.
 
->   **Note**: You need to complete Exercise 1
+**Note**: You need to complete Exercise 1
 
->   Instructions:
+Instructions:
 
-1.  Go to **All workspaces \> Data management**.
+1. Go to **All workspaces** > **Data management**.
 
-2.  Select the **Export** tile.
+2. Select the **Export** tile.
 
-3.  In the **Group name** field, enter **Item groups**.
+3. In the **Group name** field, enter **Item groups**.
 
-4.  In the **Description** field, enter **Export Item groups**.
+4. In the **Description** field, enter **Export Item groups**.
 
-5.  In the **Data project operation type,** select **Export**.
+5. In the **Data project operation type,** select **Export**.
 
-6.  In the **Project category,** select **Project**.
+6. In the **Project category,** select **Project**.
 
-7.  Select **+Add entity**.
+7. Select **+Add entity**.
 
-8.  In the **Entity name** field, enter **Item groups**.
+8. In the **Entity name** field, enter **Item groups**.
 
-9.  In the **Target data format,** select **EXCEL**
+9. In the **Target data format,** select **EXCEL**
 
 10. Select **+Add**.
 
@@ -36,7 +35,7 @@ lab:
 
 12. Select **Filter**.
 
-13. In the **Criteria** field, enter or select **TV&Video**.
+13. In the **Criteria** field, enter or select **TV&amp;Video**.
 
 14. Select **OK**.
 
@@ -52,8 +51,7 @@ lab:
 
 20. Select **Export**.
 
-21. In the “Data export job scheduled. Please refresh the form to view current
-    status.” Dialog box, Select **Close**.
+21. In the “Batch job scheduled., Select **Close**.
 
 22. Select **Refresh** button.
 
@@ -82,6 +80,7 @@ lab:
 34. Navigate to Download folder and select the package. Click **Open**.
 
 35. Select **Close**.
+
 
 36. Click **View map.**
 
