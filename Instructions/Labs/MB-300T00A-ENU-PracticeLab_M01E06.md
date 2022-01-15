@@ -5,21 +5,21 @@ lab:
 ---
 ## Exercise 6: Saved views
 
-1. Navigate to **Modules**-> **Product information management** > **Products** > **Release products.**
+1. Navigate to **Modules**-> **Product information management** > **Products** > **Released products.**
 
 2. You can see default view is “**My view**” .
 
 3. The “**Standard view**” cannot be modified as shown by the lock icon out beside the view.
 
-4. Select **Standard view** and then right click on the grid and select **insert column**.
+4. Select **Standard view** and then right click on the grid and select **insert columns**.
 
 5. Select the columns you want to add and then select **Update**.
 
-6. You can now see that the “**Standard view” has an asterisk “*”** appended to it. This indicates that a change has been made and can be saved into a view.
+6. You can now see that the “**Standard view”** has an asterisk appended to it. This indicates that a change has been made and can be saved into a view.
 
-7. Select and down arrow and then select **Save as** 
+7. Select the down arrow next to the view name and then select **Save as** 
 
-8. Enter below details and then select **Save.**
+8. Enter below details and then select **Save**.
 
 - In the “**Name**” field : enter a meaningful name for the view.
 
@@ -32,7 +32,7 @@ lab:
 
 **Set A Default View**
 
-1. Select the Savedview, then click the view drop down and click the ellipsis button (“…”).Click the “Pin as default” button to pin the view as the default view for the page
+1. Select the Saved view, then click the view drop down and click the ellipsis button (“…”).Click the “Pin as default” button to pin the view as the default view for the page
 
 **Manage Views**
 
@@ -50,7 +50,7 @@ Once you have saved some views you are able to keep track of them using the mana
 
 6. Select **Rename** drop down and enter the name to view and then select **Save**.
 
-7. Select **Publish** and then again select **publish** on the pop-up window.
+7. Select **Publish** and then again select **Publish** on the pop-up window.
 
 **Note:** The publish feature is only available for those who have the “Saved views administrator” or “System administrator” security roles
 
