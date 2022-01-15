@@ -7,9 +7,9 @@ lab:
 
 As an IT manager in USMF, you need to create an address book and describe the party records for each retail store location. You also need to create a new party and associate the party with an address book. Finally, you need to use this party to create a prospect.
 
-1. Go to **Organization administration** > **Global address book** > **Address books**.
+1. Select **Modules** from the left navigation bar > **Organization administration** > **Global address book** > **Address books**.
 
-2. Select **New**.
+2. Select **+New**.
 
 	- In the **Name** field, enter **Denver**.
 
@@ -21,9 +21,9 @@ As an IT manager in USMF, you need to create an address book and describe the pa
 
 4. Select **Save**.
 
-5. Go to **Common** > **Common** > **Global address book**.
+5. Select **Modules** from the left navigation bar > **Common** > **Common** > **Global address book**.
 
-6. Select **New**.
+6. Select **+New**.
 
 	- In the **Type** field, select **Person**.
 
@@ -35,6 +35,6 @@ As an IT manager in USMF, you need to create an address book and describe the pa
 
 	- Select Save.
 
-7. Select **Prospect** to view the new prospect information.
+7. Select **Prospect** from the menu bar to view the new prospect information.
 
 8. Close all pages.
