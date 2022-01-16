@@ -13,9 +13,11 @@ The Finance and Operations module that you're working in determines the types of
 
 ### Task 1: Create and set up workflows
 
-1. In the company **USMF**, go to **Procurement and sourcing** > **Setup** > **Procurement and sourcing workflows**.
+1. Select **Modules** from the left navigation bar.
 
-2. On the list page that appears, on the Action Pane, select **New**.On the **Create workflow** page, select the **Purchase requisition line review**.
+3. Go to **Procurement and sourcing** > **Setup** > **Procurement and sourcing workflows**.
+
+2. On the list page that appears, on the Action Pane, select **+New**.On the **Create workflow** page, select the **Purchase requisition line review**.
 
 
 3. For the first time, the browser will show a dialog box to open the **Microsoft.Dynamics.AX.Framework.WorkflowEditorHost** page.
