@@ -11,7 +11,7 @@ The goal of the lab exercise is to apply the knowledge we have learned regarding
 
 Instructions:
 
-1. Go to **All workspaces** > **Data management**.
+1. Go to **Workspaces** > **Data management**.
 
 2. Select the **Export** tile.
 
@@ -29,7 +29,7 @@ Instructions:
 
 9. In the **Target data format,** select **EXCEL**
 
-10. Select **+Add**.
+10. Select **Add**.
 
 11. Select **Close**.
 
