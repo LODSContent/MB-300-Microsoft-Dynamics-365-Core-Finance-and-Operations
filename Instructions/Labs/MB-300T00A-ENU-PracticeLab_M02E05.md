@@ -7,9 +7,11 @@ lab:
 
 ### Task 1: Create a legal entity in Finance and Operations apps.
 
-1. Go to **Organization administration** > **Organizations** > **Legal entities**.
+1. Select **Modules** from the left navigation bar.
 
-2. Select **New**.
+3. Go to **Organization administration** > **Organizations** > **Legal entities**.
+
+2. Select **+New**.
 
 - In the **Name** field, type a value.(eg :Tailwind)
 
@@ -30,7 +32,7 @@ lab:
 
 - Expand the **Addresses** section.
 
-4. Select +Add and enter the address as shown below and then select **OK**.
+4. Select **+ Add** and enter a random address then select **OK**.
 
 5. Select **Edit** and enter address information, such as the street name and number, postal code, and city and select **OK**.
 
