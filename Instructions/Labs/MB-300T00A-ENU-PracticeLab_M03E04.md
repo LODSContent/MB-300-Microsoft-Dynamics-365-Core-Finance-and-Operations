@@ -9,13 +9,17 @@ You need to use the Excel workbook designer page to create an Open in Excel expe
 
 1. Switch to the **USMF** legal entity.
 
-2. Go to **Fleet Management** > **Setup** > **Fleet Setup**
+2. Select **Modules** from the left navigation bar.
 
-3. In the **Data setup** tab, click **Create.**
+2. Go to **Fleet Management** > **Setup** > **Fleet Setup**.
+
+3. In the **Data setup** tab, click **Create**.
 
 4. In the Sample data created dialog box, click **Close**.
 
 5. Close the page.
+
+2. Select **Modules** from the left navigation bar.
 
 6. Navigate to **Common** > **Common** > **Office integration** > **Excel workbook designer**.
 
@@ -53,9 +57,11 @@ You need to use the Excel workbook designer page to create an Open in Excel expe
 
 23. Save the workbook as FleetCustomersBasic.xlsx.
 
-24. In an internet browser, navigate to **Common** > **Common** > **Office integration** > **Document templates**.
+24. In your browser, select **Modules** from the left navigation bar.
 
-25. Select **New**.
+26. Navigate to **Common** > **Common** > **Office integration** > **Document templates**.
+
+25. Select **+New**.
 
 26. Browse to the file that you just saved.
 
@@ -65,9 +71,11 @@ You need to use the Excel workbook designer page to create an Open in Excel expe
 
 29. Change the **Template display name** value to Fleet Customers Basic.
 
+30. Select **Modules** from the left navigation bar.
+
 30. Navigate to **Fleet Management** > **Customers** > **Customer**.
 
-31. Select **Open** in Microsoft Office. Note that Fleet Customers Basic is now an option in the Open in Excel section. Select that option.
+31. Select the **Open in Microsoft Office** button on the top right. Note that Fleet Customers Basic is now an option in the Open in Excel section. Select that option.
 
 32. Open the workbook that is generated.
 
