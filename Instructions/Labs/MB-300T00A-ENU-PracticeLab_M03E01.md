@@ -29,9 +29,9 @@ Instructions:
 
 10. View available entities for **Main account categories** template.
 
-11. Expand the **Template details** section. In the list, find and select the desired record, such as **Financial dimension sets and** Select **Discover dependencies**. It takes a few minutes, then shows all dependencies of the selected entity. This may take a while.
+11. Expand the **Template details** section. In the list, find and select the desired record, such as **Financial dimension sets** and select **Discover dependencies**. It takes a few minutes, then shows all dependencies of the selected entity. This may take a while.
 
-12. View entities that **Financial dimension sets** entity has dependency with.
+12. View entities that **Financial dimension sets** entity has a dependency with.
 
 13. Close the **Discover dependencies** page.
 
@@ -55,7 +55,6 @@ Instructions:
 
 23. In the tree, select **All\AccountsPayable\Transaction**. View available entities.
 
-
 24. In the tree, expand **All\GeneralLedger**. View available entities.
 
 25. In the tree, select **All\GeneralLedger\Document**. View available entities.
@@ -63,7 +62,6 @@ Instructions:
 26. Close the **Entity model view** page.
 
 27. Select **Entity category view** button.
-
 
 28. In the tree, expand **All\Configuration**. View available entities
 
@@ -77,17 +75,11 @@ Instructions:
 
 33. Close the **Data entities** page**.**
 
-34. Select the **Staging cleanup** tile.
-
-35. In the **Entity** field, enter or select a value such as **1099 fields**.
-
-36. Select **OK**.
-
 37. Select the **Data task automation** tile.
 
 38. Select **Load default tasks** to open the **Load default tasks** dialog.
 
-39. From the drop-down, enter or select a value such as **MS_Sample_Regression_DMFManifest**. Click **Select**.
+39. From the drop-down, enter or select a value such as **MS_Sample_Regression_DMFManifest**.
 
 40. Select **Load**. This dialog allows you to load multiple data task automation.
 
