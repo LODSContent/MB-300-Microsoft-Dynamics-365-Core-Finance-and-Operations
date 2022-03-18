@@ -9,15 +9,15 @@ lab:
 
 To complete this exercise, you should:
 
-1. In the navigation pane, go to **Modules** > **Fixed assets** & **Fixed assets** > Fixed assets**.
+1. In the navigation pane, go to **Modules** > **Fixed assets** & **Fixed assets** > **Fixed assets**.
 
 2. Select **New**.
 
     - In the **Fixed asset group** field, enter or select **Computer**.
 
-	- In the **Name** field, type a value. For example, enter Corporate lead laptop.
+	- In the **Name** field, type a value. For example, enter 'Corporate lead laptop'.
 
-	- In the **Search name** field, type a value. For example, enter laptop.
+	- In the **Search name** field, type a value. For example, enter 'laptop'.
 
 	- Expand the **Technical information** section.
 
