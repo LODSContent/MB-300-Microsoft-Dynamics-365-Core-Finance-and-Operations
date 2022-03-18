@@ -13,9 +13,9 @@ Complete the following procedure to create a rule. You must be a system administ
 
 ### Instructions
 
-1. Go to **System administration** > **Security Configuration** 
+1. Select **Modules** from the left navigation bar.
 
-2. **Select Segregation of duties** > **Segregation of duties rules**.
+3. Go to **System administration** > **Security** > **Security configuration** > **Segregation of duties** > **Segregation of duties rules**.
 
 3. Select **+New**.
 
