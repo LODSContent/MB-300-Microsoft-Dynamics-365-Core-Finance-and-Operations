@@ -13,9 +13,9 @@ Scenario: your company wants a specific pattern for a certain type of general jo
 
 Instructions
 
-1. Navigate to **Organization administration** > **Number sequences** **Number sequences**.
+1. Select **Modules** from left navigation bar > **Organization administration** > **Number sequences** **Number sequences**.
 
-2. Select **Number sequence** > **New** > **Number sequence**.
+2. Select **Number sequence** from the menu bar.
 
 - In the **Number sequence code** field, enter a value.
 
