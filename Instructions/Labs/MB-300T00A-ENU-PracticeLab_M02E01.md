@@ -12,9 +12,11 @@ The HR department of **USMF** has requested access to Finance and Operations app
 You also need to import a new employee into Finance and Operations apps and assign the default company to **USMF** and associate **Accounts receivable clerk**.
 ## Instructions
 
-1. Go to **System administration > Manage Users > Users**. Note that this navigation is almost always done from the modules selection on the left side.
+1. Select **Modules** from the left navigation bar.
 
-2. Select **+New and then data as mentioned below**
+3. Go to **System administration > Users > Users**. 
+
+2. Select **+New** and then enter the data as mentioned below**
 
 	- In the **User ID** field, enter **DynUser3**.
 
@@ -24,7 +26,7 @@ You also need to import a new employee into Finance and Operations apps and assi
 
 	- In the **Company** field, select **USMF**.
 
-3. Select **Assign roles**.
+3. Select **+ Assign roles**.
 
 	- In the list, find and select **Account payable clerk**.
 
