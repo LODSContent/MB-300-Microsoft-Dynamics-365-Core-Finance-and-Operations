@@ -9,7 +9,9 @@ As an administrator you need to create a batch job, which is a group of tasks th
 
 ### Task 1: Create the batch job
 
-1. Go to **System administration** > **Inquiries** > **Batch jobs**.
+1. Select **Modules** from the left navigation bar.
+
+3. Go to **System administration** > **Inquiries** > **Batch jobs**.
 
 2. Select **+New**.
 
@@ -21,7 +23,7 @@ As an administrator you need to create a batch job, which is a group of tasks th
 
 ### Task 2: Create a recurrence
 
-1. In the **Action** pane, select **Batch job** > **Recurrence** in the legacy form, or **Recurrence** in the enhanced form.
+1. In the menu bar pane, select **Batch job** > **Recurrence** in the legacy form, or **Recurrence** in the enhanced form.
 
 - Use these options to enter a range and pattern for the recurrence as you desire, for example select daily by choosing a pattern of **Days** and an interval of **1**.
 
@@ -37,7 +39,9 @@ As an administrator you need to create a batch job, which is a group of tasks th
 
 ### Task 4: Copy a batch job
 
-1. Select **System administration** > **Inquiries** > **Batch jobs**.
+1. Select **Modules** from the left navigation bar.
+
+3. Go to **System administration** > **Inquiries** > **Batch jobs**.
 
 2. Select the job that you want to copy, and in the **Action** pane, select **Batch Job** > **Copy batch job** in the legacy form, or **Copy batch job** in the enhanced form.
 
@@ -47,14 +51,16 @@ As an administrator you need to create a batch job, which is a group of tasks th
 
 ### Task 5: Enable the batch job
 
-1. On the **Batch job** page, in the **Action** pane, select **Batch job** > **Change status in the legacy form, or Change status in the enhanced form**.
+1. On the **Batch job** page, in the **Action** pane, select **Batch job** > **Change status** in the legacy form, or **Change status** in the enhanced form.
 
 2. Select the **Waiting** status, and then select **OK**.
 
 
 ### Task 6: Set up active periods for batch jobs
 
-1. Go to **System administration** > **Setup** > **Active periods for batch jobs**.
+1.Select **Modules** from the left navigation bar.
+
+3. Go to **System administration** > **Setup** > **Active periods for batch jobs**.
 
 2. Select **+New**.
 
@@ -64,7 +70,9 @@ As an administrator you need to create a batch job, which is a group of tasks th
 
 ### Task 7: Assign active periods to batch jobs
 
-1. Navigate to **System administration** > **Inquiries** > **Batch jobs**.
+1. Select **Modules** from the left navigation bar.
+
+3. Go to **System administration** > **Inquiries** > **Batch jobs**.
 
 2. Select the batch job that you want to assign a period to and select **Edit**.
 
@@ -72,7 +80,9 @@ As an administrator you need to create a batch job, which is a group of tasks th
 
 ### Task 8: Assign the Batch manager role to a user
 
-1. Select **System administration** > **Security** > **Assign users to roles**.
+1. Select **Modules** from the left navigation bar.
+
+3. Go to **System administration** > **Security** > **Assign users to roles**.
 
 2. Select **Batch Job Manager** and select **Manually assign/exclude** user.
 
