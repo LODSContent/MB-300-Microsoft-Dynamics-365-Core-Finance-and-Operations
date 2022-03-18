@@ -19,7 +19,7 @@ In this exercise, you will copy configuration data from legal entity **USMF** in
 
 5. In the **Data project operation type** field, select **Copy into legal entity**.
 
-6. Select **Create legal entities** to open the **New legal entity** dialog box.
+6. Select **+Create legal entities** to open the **New legal entity** dialog box.
 
 7. In the **Name** field, enter **Woodgrove Bank**.
 
@@ -29,7 +29,7 @@ In this exercise, you will copy configuration data from legal entity **USMF** in
 
 10. Select **OK**.
 
-11. Select **Add template** to open the **Add template** dialog box.
+11. Select **+Add template** to open the **Add template** dialog box.
 
 12. In the **Copy from template** field, enter or select **010 - System Setup**
 
