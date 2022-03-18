@@ -23,7 +23,7 @@ The ER configuration will refer to the provider as the author of the configurati
 
 ### Task 1: Create a provider
 
-1. Go to the **navigation pane** in the upper left corner and select **Organization administration** and then select **Workspaces** > **Electronic reporting**.
+1. In the navigation pane, go to **Modules** > **Organization administration** and then select **Workspaces** > **Electronic reporting**.
 
 2. Go to **Related links** > **Configuration providers**.
 
@@ -41,15 +41,13 @@ The ER configuration will refer to the provider as the author of the configurati
 
 1. Select the **Litware, Inc.** provider.
 
-2. Click **…** drop down.
-
 3. Select **Set active**.
 
 ### Task 3: Import ER solutions
 
 Import the ER data model configuration of each ER solution in the tables above before you import the corresponding ER format configuration.
 
-1. Select the **Organization administration** > **Work space** >**Electronic reporting** 
+1.  In the navigation pane, go to **Modules** > **Organization administration** > **Worksspaces** >**Electronic reporting** 
 
 2.  Select **Reporting Configurations** tile.
 
@@ -67,9 +65,9 @@ Import the ER data model configuration of each ER solution in the tables above b
 
 **Note : change UTF value if its throws any version error.**
 
-9. This will create a new node “**Customer Invoicing model”**
+9. This will create a new node “**Customer invoicing model”**
 
-10. Select the “**Customer Invoicing model”** node and Select **Exchange** button.
+10. Select the “**Customer invoicing model”** node and Select **Exchange** button.
 
 Note: change UTF value in xml to 16 and save.
 
@@ -85,7 +83,7 @@ Note: change UTF value in xml to 16 and save.
 
 16. Select “**Customer FTI report (GER)” and** Select **Designer** button.
 
-17. Expand **Report and** Expand **Invoice and r**eview the sub-nodes and the values of the **Format** tab on the right-hand side.
+17. Expand **Report** and expand **Invoice** and review the sub-nodes and the values of the **Format** tab on the right-hand side.
 
 18. Select the **Mapping** tab and review the values.
 
@@ -99,7 +97,7 @@ Note: change UTF value in xml to 16 and save.
 
 To start Business document management, you need to open the **Feature management** workspace and enable the **Business document management** feature.
 
-1. Select **Workspace management** and scroll down and select **Feature management** workspace.
+1. Select the **Feature management** workspace.
 
 2. Select **All** tab. In the quick filter type **Business,** then press enter**.**
 
@@ -113,7 +111,7 @@ By default, when access to Business document management permissions is not enabl
 
 The Business document management workspace will show only those templates that reside in ER format configurations and that are marked by a **Business document type** tag.
 
-1. Go to **Organization administration** > **Electronic reporting** > **Business document management** > **Manage access permissions** **to edit templates.**
+1. In the search pane at the top of the window, enter **Manage access permissions to edit templates**.
 
 2. Click **Access permission settings**
 
@@ -121,15 +119,15 @@ The Business document management workspace will show only those templates that r
 
 4. Click **Ok**.
 
-5. Click **+Add and** Select **Accounts receivable manager and then** Click **Ok**.
+5. Click **+Add** and select **Accounts receivable manager** and then click **Ok**.
 
-6. Under the **Access permission per tags of configuration**, click **+New.**
+6. Under the **Access permission per tags of configuration**, click **+ New.**
 
 	- Select **Functional area** in the **Tag type** field.
 
 	- Select **invoicing** in the **Id** field.
 
-	- Under the **Access permission per configuration** section, click **+Add.**
+	- Under the **Access permission per configuration** section, click **+ Add.**
 
 	- Select **Customer FTI report (GER)** in the **Name** field.
 
@@ -139,9 +137,11 @@ The Business document management workspace will show only those templates that r
 
 ### Task 6: Business document management Workspace
 
-1. Go to **Business document management** workspace. Click **New document** button.
+1.  In the navigation pane, go to **Modules** > **Organization administration** > **Business document management** workspace. Click **New document** button.
 
 2. Select **Invoicing** and then select **Create document** button**.**
+
+3. Select 'Litware, Inc' for the the **Configuration Provider** value.
 
 3. In the Name field type “**My Free Text Excel Business Document**” and select **OK**.
 
