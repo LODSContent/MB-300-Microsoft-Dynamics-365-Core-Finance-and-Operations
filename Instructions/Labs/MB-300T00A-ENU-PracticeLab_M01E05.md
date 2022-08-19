@@ -40,7 +40,7 @@ The ER configuration will refer to the provider as the author of the configurati
 ### Task 2: Select as an active provider
 
 1. Select the **Litware, Inc.** provider.
-
+2. Click **…** drop down.
 3. Select **Set active**.
 
 ### Task 3: Import ER solutions
