@@ -97,7 +97,7 @@ Note: change UTF value in xml to 16 and save.
 
 To start Business document management, you need to open the **Feature management** workspace and enable the **Business document management** feature.
 
-1. Select the **Feature management** workspace.
+1. Select the **System Administration > Feature management** workspace.
 
 2. Select **All** tab. In the quick filter type **Business,** then press enter**.**
 
