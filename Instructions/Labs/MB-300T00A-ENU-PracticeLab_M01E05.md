@@ -141,8 +141,6 @@ The Business document management workspace will show only those templates that r
 
 2. Select **Invoicing** and then select **Create document** button**.**
 
-3. Select 'Litware, Inc' for the the **Configuration Provider** value.
-
 3. In the Name field type “**My Free Text Excel Business Document**” and select **OK**.
 
 **Note:** If you are using VM hosted by vendors rather than your environment you will receive an error message while previewing the excel document. Click **Ok**.
