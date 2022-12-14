@@ -20,7 +20,7 @@ You also need to import a new employee into Finance and Operations apps and assi
 
 	- In the **User ID** field, enter **DynUser3**.
 
-	- In the **User name** field, enter **Dynamics 365 User 1**.
+	- In the **User name** field, enter **Dynamics 365 User 3**.
 
 	- In the **Email** field, enter [DynUser3@contosoax7.onmicrosoft.com](mailto:DynUser3@contosoax7.onmicrosoft.com).
 
