@@ -5,25 +5,23 @@ lab:
 ---
 ## Exercise 4: Work with record templates
 
-**Scenario**: In USMF you need to create a template for similar fixed assets to speedup data entry.
+**Scenario**: In USMF you need to create a template for similar fixed assets to speed up data entry.
 
 To complete this exercise, you should:
 
-1. In the navigation pane, go to **Modules** > **Fixed assets** & **Fixed assets** > **Fixed assets**.
+1.  In the navigation pane, go to **Modules** > **Fixed assets** & **Fixed assets** > **Fixed assets**. 
 
-2. Select **New**.
+2.  Select **+ New**. 
 
-    - In the **Fixed asset group** field, enter or select **Computer**.
+    - In the **Fixed asset group** field, enter or select `COMP`
 
-	- In the **Name** field, type a value. For example, enter 'Corporate lead laptop'.
+    - In the **Name** field, enter a value. For example, enter `Corporate lead laptop`
 
-	- In the **Search name** field, type a value. For example, enter 'laptop'.
+3.  Expand the **Technical information** FastTab.
 
-	- Expand the **Technical information** section.
+4.  In the **Make**, **Model**, and **Model year** fields, enter values and on the **Action Pane**, select **Options** then select **Record info**. Select **User template**. 
 
-3. In the **Make**, **Model**, and **Model year** fields, type values and On the **Action Pane**, select **Options** then select **Record info**. Select **User template**.
+5.  In the **Name** field, enter `Comp-0069`. In the **Description** field, enter `My computer` and then select **OK**. 
 
+6. Select **Close**. 
 
-4. In the **Name** field, type 'Comp-0069'.In the **Description** field, type 'My Computer' and then select **OK**.
-
-5. Select **Close**.
