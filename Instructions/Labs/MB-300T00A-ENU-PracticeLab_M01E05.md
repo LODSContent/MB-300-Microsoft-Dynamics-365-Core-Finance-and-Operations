@@ -25,23 +25,24 @@ The ER configuration will refer to the provider as the author of the configurati
 
 1. In the navigation pane, go to **Modules** > **Organization administration** and then select **Workspaces** > **Electronic reporting**.
 
-2. Go to **Related links** > **Configuration providers**.
+2. Go to **Related links** > **Configuration providers**. 
 
-3. Select **+New**.
+3. Select **+ New**. 
 
-4. In the Name field, type **Litware, Inc.**
+4. In the Name field, enter `Litware, Inc.`
 
-5. In the Internet address field, type [http://www.litwareinc.com/](http://www.litwareinc.com/)
+5. In the Internet address field, enter `http://www.litwareinc.com`
 
-6. Select **Save**.
+6. Select **Save**. 
 
-7. **Close** the page.
+7. **Close** the page. 
 
 ### Task 2: Select as an active provider
 
-1. Select the **Litware, Inc.** provider.
-2. Click **…** drop down.
-3. Select **Set active**.
+1. Select the **Litware, Inc.** provider. 
+
+2. Select **Set active**. 
+
 
 ### Task 3: Import ER solutions
 
@@ -81,29 +82,31 @@ Note: change UTF value in xml to 16 and save.
 
 15. This will create a new sub-node “**Customer FTI report (GER)”**
 
-16. Select “**Customer FTI report (GER)” and** Select **Designer** button.
+16. Select “**Customer FTI report (GER)**” and select **Designer** button. 
 
-17. Expand **Report** and expand **Invoice** and review the sub-nodes and the values of the **Format** tab on the right-hand side.
+17. Expand **Report** and expand **Invoice** and review the sub-nodes and the values of the **Format** tab on the right-hand side. 
 
-18. Select the **Mapping** tab and review the values.
+18. Select the **Mapping** tab and review the values. 
 
-19. Close the **Designer** form.
+19. Close the **Designer** form. 
 
-20. Close the **Reporting Configuration** form.
+20. Close the **Reporting Configuration** form. 
 
-21. Click on the **Home** button.
+21. Select the **Home** button. 
+
 
 ### Task 4: Verify Business document management feature is enabled
 
 To start Business document management, you need to open the **Feature management** workspace and enable the **Business document management** feature.
 
-1. Select the **System Administration > Feature management** workspace.
+1. Select the **System Administration > Feature management** workspace. 
 
-2. Select **All** tab. In the quick filter type **Business,** then press enter**.**
+2. Select **All** tab. In the filter, enter `Business` and filter on **Feature name**. 
 
-3. Make sure the **Business document management** feature is enabled.
+3. Make sure the **Business document management** feature is enabled. 
 
-4. Click **Home**.
+4. Select **Home**. 
+
 
 ### Task 5: Configure access permissions
 
@@ -111,37 +114,38 @@ By default, when access to Business document management permissions is not enabl
 
 The Business document management workspace will show only those templates that reside in ER format configurations and that are marked by a **Business document type** tag.
 
-1. In the search pane at the top of the window, enter **Manage access permissions to edit templates**.
+1. In the **search pane** at the top of the window, enter and select `Manage access permissions to edit templates` 
 
-2. Click **Access permission settings**
+2. Select **Access permission settings**. 
 
-3. Set the **Apply configured access permission**, to **Yes**.
+3. Set the **Apply configured access permission** to **Yes**. 
 
-4. Click **Ok**.
+4. Select **OK**. 
 
-5. Click **+Add** and select **Accounts receivable manager** and then click **Ok**.
+5. Select **+ Add**, select **Accounts receivable manager** from the list and then select **OK**. 
 
-6. Under the **Access permission per tags of configuration**, click **+ New.**
+6. On the **Access permissions per tags of configuration** FastTab, select **+ New**. 
 
-	- Select **Functional area** in the **Tag type** field.
+	- Select **Functional area** in the **Tag type** field. 
 
-	- Select **invoicing** in the **Id** field.
+	- Enter or select `Invoicing` in the **Id** field. 
 
-	- Under the **Access permission per configuration** section, click **+ Add.**
+	- Expand the **Access permissions per configuration** FastTab and select **+ Add**. 
 
-	- Select **Customer FTI report (GER)** in the **Name** field.
+	- Select **Customer FTI report (GER)** in the **Name** field. Select **OK**. 
 
-7. Click **Save**.
+7. Select **Save**. 
 
-8. Close the form.
+8. Close the form. 
+
 
 ### Task 6: Business document management Workspace
 
-1.  In the navigation pane, go to **Modules** > **Organization administration** > **Business document management** workspace. Click **New document** button.
+1.  In the navigation pane, go to **Modules** > **Organization administration** > **Business document management** workspace. Select the **New document** button. 
 
-2. Select **Invoicing** and then select **Create document** button**.**
+2. Select **Invoicing** and then select the **Create document** button. 
 
-3. In the Name field type “**My Free Text Excel Business Document**” and select **OK**.
+3. In the **Name** field, enter `My Free Text Excel Business Document` and select **OK**. 
 
 **Note:** If you are using VM hosted by vendors rather than your environment you will receive an error message while previewing the excel document. Click **Ok**.
 
@@ -153,9 +157,9 @@ The Business document management workspace will show only those templates that r
 
 4. Select **Open folder** button. Select the **Free Text Invoice Template** and double **Open**.
 
-5. If the Office activation form appears, click **Close**.
+5. If the Office activation form appears, select **Close**.
 
-6. View the format and Close the workbook.
+6. View the format and close the workbook.
 
 7. Navigate to **Business document management** workspace.
 
@@ -163,4 +167,5 @@ The Business document management workspace will show only those templates that r
 
 1. You can delete the document by selecting **Delete**.
 
-2. You can publish your business document by selecting **Publish** button and Click **Publish** button and then click **Yes**.
+2. You can publish your business document by selecting **Publish** then **Yes**. 
+
