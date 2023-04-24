@@ -3,7 +3,6 @@ lab:
     title: 'Exercise 02: Perform searches and work with filters'
     module: 'Module 01: Describe Finance and Operations Apps, and extend apps by using Microsoft Power Platform technologies'
 ---    
-
 ## Exercise 2: Perform searches and work with filters
 
 1.  Select **Modules** from the left navigation bar
@@ -27,4 +26,15 @@ lab:
 10. Apply the following filters: Enter a filter value of `US` on the **Account** field using the **begins with** filter operator; Enter a filter value of `Wholesales` on the **Name** field using the **contains** filter operator.
 
 11. View the results.
+
+
+**Create search queries**
+
+Under **Options** action pane tab, the **Advanced filter or sort** button launches the inquiry dialog box 
+
+Select related and derived tables to the form that you are working on. You can add derived tables into the **Range** tab and choose your desired field(s) and assign criteria.
+
+You can also set up and assign sorting, and date options, and view the joins based on selected criteria.
+
+Aside from the Default Dashboard, from anywhere in Dynamics 365 Finance apps, you can directly access the inquiry dialog box with the shortcut key **Ctrl+Shift+F3**.
 
