@@ -43,7 +43,7 @@ The **Security role access** report provides a view of the effective permissions
 
 This report may take some time to run, since its data set backing can be very large. If it is the first time the report has run, or there could be changes to the role definitions, the **Rebuild collection** option should be set to **Yes**. You can limit the roles included in the report by adding a filter under **Records to include**.
 
-1.  Select **Modules** from the left navigation bar > **System administration** > **Inquiries** > **Securit** > **Security role access**.
+1.  Select **Modules** from the left navigation bar > **System administration** > **Inquiries** > **Security** > **Security role access**.
 
 2.  On the report parameters pane, navigate to **Records to include**. 
 
