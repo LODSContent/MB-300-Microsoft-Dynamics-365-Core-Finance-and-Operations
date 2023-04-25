@@ -15,7 +15,7 @@ lab:
 
 5.  You can now see that the **Standard view** has an asterisk **“\*”** appended to it. This indicates that a change has been made and can be saved into a view. 
 
-6.  Select **Standard view \*** and select **Save as...**. 
+6.  Select **Standard view \*** and select **Save as...** from the drop-down. 
 
 7.  Enter below details and then select **Save**. 
 
