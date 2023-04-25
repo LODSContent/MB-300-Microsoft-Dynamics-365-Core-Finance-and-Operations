@@ -10,29 +10,30 @@ Scenario - In this exercise, we will create two new users and assign security ro
 The HR department of **USMF** has requested access to Finance and Operations apps for a newly hired employee as an **Accounts payable clerk**. As a system administrator, you need to create a new user ID for the employee in Finance and Operations, assign USMF as their default company, and associate the **Accounts payable clerk**. The active directory user account has already been created as part of the onboarding process.
 
 You also need to import a new employee into Finance and Operations apps and assign the default company to **USMF** and associate **Accounts receivable clerk**.
+
 ## Instructions
 
-1. Select **Modules** from the left navigation bar.
+1.  Select **Modules** from the left navigation bar.
 
-3. Go to **System administration > Users > Users**. 
+2.  In the **System administration** module, go to **Users > Users**. 
 
-2. Select **+New** and then enter the data as mentioned below**
+3.  Select **+ New** and then enter the data as follows:
 
-	- In the **User ID** field, enter **DynUser3**.
+	- In the **User ID** field, enter `DynUser3`
 
-	- In the **User name** field, enter **Dynamics 365 User 3**.
+	- In the **User name** field, enter `Dynamics 365 User 3`
 
 	- In the **Email** field, enter [DynUser3@contosoax7.onmicrosoft.com](mailto:DynUser3@contosoax7.onmicrosoft.com).
 
-	- In the **Company** field, select **USMF**.
+	- In the **Company** field, select **USMF**. 
 
-3. Select **+ Assign roles**.
+4.  Select **+ Assign roles**. 
 
-	- In the list, find and select **Account payable clerk**.
+	- In the list, find and select **Account payable clerk**. 
 
-	- Select **OK**.
+	- Select **OK**. 
 
-4. Select **Save**.
+5.  Select **Save**. 
 
-5. Close the page.
+6.  Close the page.
 
