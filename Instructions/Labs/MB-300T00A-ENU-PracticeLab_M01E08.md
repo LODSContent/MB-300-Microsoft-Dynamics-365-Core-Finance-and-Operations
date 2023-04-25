@@ -23,7 +23,7 @@ As an IT manager in USMF, you need to create an address book and describe the pa
 
 5. Select **Modules** from the left navigation bar > **Common** > **Common** > **Global address book**.
 
-6. Select **+New**.
+6. Select **+ New**.
 
 	- In the **Type** field, select **Person**.
 
