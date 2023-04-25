@@ -13,18 +13,19 @@ Scenario: your company wants a specific pattern for a certain type of general jo
 
 Instructions
 
-1. Select **Modules** from left navigation bar > **Organization administration** > **Number sequences** **Number sequences**.
+1.  Open **Modules** in the left navigation bar. Select **Organization administration** then expand **Number sequences** and select **Number sequences**. 
 
-2. Select **Number sequence** from the menu bar.
+2.  In the action pane, under the **New** group, select **Number sequence**.
 
-- In the **Number sequence code** field, enter a value.
+    - In the **Number sequence code** field, enter a value.
 
-- In the **Name** field, enter a value.
+    - In the **Name** field, enter a value.
 
-- Expand the **Scope parameters** section and select a scope for the number sequence and select scope values.
+    - Expand the **Scope parameters** section and select a scope for the number sequence and select scope values.
 
-3. Expand the **Segments** section and define the format for the number sequence by adding, removing, and rearranging segments.
+3.  Expand the **Segments** section and define the format for the number sequence by adding, removing, and rearranging segments.
 
-4. Expand the **General** section and specify whether the number sequence is manual, and continuous or non-continuous.
+4.  Expand the **General** section and specify whether the number sequence is manual, and continuous or non-continuous.
 
-5. Select **Save**.
+5.  Select **Save**. 
+
