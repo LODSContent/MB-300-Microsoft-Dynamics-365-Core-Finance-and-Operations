@@ -9,35 +9,31 @@ The goal of the lab exercise is to apply the knowledge we have learned regarding
 
 Instructions:
 
-1. Go to **Workspaces** > **Data management**.
+1.  Go to **Workspaces** > **Data management**.
 
-2. If the dialog box “The entity list is being refreshed. You may continue your work while this happens. The completion status of this operation can be found in the message center.” appeared, click **Close** and then Click **Enhanced view** button in the top left of the screen.
+2.  If the dialog box “The entity list is being refreshed. You may continue your work while this happens. The completion status of this operation can be found in the message center.” appeared, click **Close** and then select the **Enhanced view** button in the top left of the screen.
 
-3. Select the **Templates** tile.
+3.  Select the **Templates** tile. 
 
-4. Refresh the page or press **Shift+F5**. (There is a refresh arrow near the top right of the Dynamics screen.) Note if there are any templates available.
+4.  Refresh the page or press **Shift+F5**. (There is a refresh arrow near the top right of the Dynamics screen.) Note if there are any templates available.
 
-5. Select **Load default templates**.
+5.  Select **Load default templates**.
 
-6. Select **Load all**. This may take a while.
+6.  Select **Load all**. This may take a while.
 
-7. In the list, find and select the desired template, such as **020 - GL Shared**.
+7.  In the list, find and select the desired template, such as **020 - GL Shared**.
 
-8. View available entities for General ledger shared template.
+8.  View available entities for the GL Shared template.
 
-9. In the list, find and select the desired record, such as **Main account categories** by using the filter
+9.  Expand the **Template details** section. In the list, find and select the desired record, such as **Financial dimension sets** and select **Discover dependencies**. It takes a few minutes, then shows all dependencies of the selected entity. This may take a while.
 
-10. View available entities for **Main account categories** template.
+10. View entities that **Financial dimension sets** entity has a dependency with. 
 
-11. Expand the **Template details** section. In the list, find and select the desired record, such as **Financial dimension sets** and select **Discover dependencies**. It takes a few minutes, then shows all dependencies of the selected entity. This may take a while.
+11. Close the **Discover dependencies** page. 
 
-12. View entities that **Financial dimension sets** entity has a dependency with.
+12. Close the **Templates** page. 
 
-13. Close the **Discover dependencies** page.
-
-14. Close the **Templates** page.
-
-15. Select **Data entities** tile. View the available **Finance and Operations apps** entities.
+15. Select **Data entities** tile. View the available **Finance and Operations apps** entities. 
 
 16. Select any of the entities of your choice, such as **Accountants** and select **Entity structure** button to see the data source. 
 
