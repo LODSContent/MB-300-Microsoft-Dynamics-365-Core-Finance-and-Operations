@@ -37,7 +37,7 @@ lab:
 
 9.  Expand the **Contact information** section. To enter a new Contact information record, select **Add**. To modify an existing communication record, select **Advanced**.
 
-10. Enter information about methods of communication, such as email addresses, URLs, and telephone numbers.
+10. Enter information about methods of communication, such as email addresses, URLs, and telephone numbers. 
 
 11. Expand the **Statutory reporting** section, and enter the registration numbers that are used for statutory reporting.
 
@@ -55,5 +55,5 @@ lab:
 
 18. Expand the **Tax 1099** section and enter 1099 information for the legal entity. (This is only necessary for a US-based company.)
 
-19. Select **Save**.
+19. Select **Save**. 
 
