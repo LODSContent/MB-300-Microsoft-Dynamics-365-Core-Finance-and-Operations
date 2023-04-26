@@ -90,9 +90,9 @@ As an administrator you need to create a batch job, which is a group of tasks th
 
 2. In the **System administration** module, go to **Security** > **Assign users to roles**. 
 
-3. Select **Batch Job Manager** and select **Manually assign/exclude** user. 
+3. Select **Batch Job Manager** and under **Users assigned to role**, select **Manually assign / exclude users**. 
 
-4. Select a user from the list, and then select **Assign to role**. 
+4. Choose a user from the list, and then select **Assign to role**. 
 
 5. Close the page.
 
