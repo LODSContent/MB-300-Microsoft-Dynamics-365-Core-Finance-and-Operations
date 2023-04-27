@@ -33,7 +33,7 @@ In this exercise, you will copy configuration data from legal entity **USMF** in
 
 12. In the **Copy from template** field, enter or select `010 - System Setup`
 
-13. Select **OK**. 
+13. Select **Ok**. 
 
 14. Select **Yes** in the **Copy number sequences** field.
 
