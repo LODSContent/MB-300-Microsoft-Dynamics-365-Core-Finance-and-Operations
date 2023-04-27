@@ -69,22 +69,23 @@ Instructions:
 
 32. Close the **Entity category view** page.
 
-33. Close the **Data entities** page**.**
+33. Close the **Data entities** page**. 
 
 37. Select the **Data task automation** tile.
 
 38. Select **Load default tasks** to open the **Load default tasks** dialog.
 
-39. From the drop-down, enter or select a value such as **MS_Sample_Regression_DMFManifest**.
+39. From the drop-down, enter or select **MS_Sample_Regression_DMFManifest**.
 
-40. Select **Load**. This dialog allows you to load multiple data task automation.
+40. Select **Load**. This dialog allows you to load multiple data task automations. 
 
 41. Select **Cancel**.
 
 42. View available tasks.
 
-43. Close the **Data task automation** page.
+43. Close the **Data task automation** page. 
 
 44. Select the **Configure data source** tile. Here you can view, edit, and create data types such as CSV, Excel, and Package.
 
 45. Close all pages.
+
