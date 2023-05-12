@@ -5,35 +5,36 @@ lab:
 ---    
 ## Exercise 2: Perform searches and work with filters
 
-1. Select **Modules** from the left navigation bar
+1.  Select **Modules** from the left navigation bar
 
-2. Go to **Accounts payable** > **Vendors** > **All vendors** and view the results.
+2.  Go to **Accounts payable** > **Vendors** > **All vendors** and view the results.
 
-3. Use the **QuickFilter** to filter on the Group field with a value of 40. View the results.
+3.  Use the **QuickFilter** to filter on the **Group** field with a value of `40`. View the results.
 
-4. Open **Name** column filter. Enter a filter value of **Company** on the **Name** field using the **contains filter** operator. Select **Apply**.
+4.  Open **Name** column filter. Enter a filter value of `Company` on the **Name** field using the **contains** operator. Select **Apply**. 
 
-5. View the results.
+5.  View the results.
 
-6. Open **Name** column filter. Select **Clear**.
+6.  Open **Name** column filter. Select **Clear**. 
 
-7. Close the forms using the X on the upper right under userID (example: AD).
+7.  Close the form using the **X** on the upper right under userID (example: AD).
 
-8. Select **Modules** from the left navigation bar.
+8.  Select **Modules** from the left navigation bar. 
 
-9. Go to **Accounts receivable** > **Customers** > **All customers**.
+9.  Go to **Accounts receivable** > **Customers** > **All customers**. 
 
-11. Apply the following filters: Enter a filter value of **US** on the **Account** field using the **begins with** filter operator; Enter a filter value of **Wholesales** on the **Name** field using the **contains filter** operator
+10. Apply the following filters: Enter a filter value of `US` on the **Account** field using the **begins with** filter operator; Enter a filter value of `Wholesales` on the **Name** field using the **contains** filter operator.
 
-12. See the result.
+11. View the results.
+
 
 **Create search queries**
 
 Under **Options** action pane tab, the **Advanced filter or sort** button launches the inquiry dialog box 
 
- Select related and derived tables to the form that you are working on. You can add derived tables into the **Range** tab and choose your desired field(s) and assign criteria.
+Select related and derived tables to the form that you are working on. You can add derived tables into the **Range** tab and choose your desired field(s) and assign criteria.
 
 You can also set up and assign sorting, and date options, and view the joins based on selected criteria.
 
+Aside from the Default Dashboard, from anywhere in Dynamics 365 Finance apps, you can directly access the inquiry dialog box with the shortcut key **Ctrl+Shift+F3**.
 
-Aside from the Default Dashboard, from anywhere in Dynamics 365 Finance apps, you can directly access the inquiry dialog box with the shortcut key **Ctrl+Shift+F3.**

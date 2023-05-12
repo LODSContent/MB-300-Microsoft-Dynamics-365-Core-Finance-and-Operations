@@ -3,7 +3,7 @@ lab:
     title: 'Exercise 02: Export and Import the data'
     module: 'Module 03: Manage Finance and Operations data'
 ---
-## Exercise2: Export and Import the data
+## Exercise 2: Export and Import the data
 
 The goal of the lab exercise is to apply the knowledge we have learned regarding the import and export data.
 
@@ -11,23 +11,23 @@ The goal of the lab exercise is to apply the knowledge we have learned regarding
 
 Instructions:
 
-1. Go to **Workspaces** > **Data management**.
+1.  Go to **Workspaces** > **Data management**.
 
-2. Select the **Export** tile.
+2.  Select the **Export** tile.
 
-3. In the **Group name** field, enter **Item groups**.
+3.  In the **Group name** field, enter `Item groups`
 
-4. In the **Description** field, enter **Export Item groups**.
+4.  In the **Description** field, enter `Export item groups`
 
-5. In the **Data project operation type,** select **Export**.
+5.  In the **Data project operation type,** select **Export**.
 
-6. In the **Project category,** select **Project**.
+6.  In the **Project category,** select **Project**.
 
-7. Select **+Add entity**.
+7.  Select **+ Add entity**.
 
-8. In the **Entity name** field, enter **Item groups**.
+8.  In the **Entity name** field, enter `Item groups`
 
-9. In the **Target data format,** select **EXCEL**
+9.  In the **Target data format,** select **EXCEL**
 
 10. Select **Add**.
 
@@ -35,23 +35,23 @@ Instructions:
 
 12. Select **Filter**.
 
-13. In the **Criteria** field, enter or select **TV&amp;Video**.
+13. In the **Criteria** field, enter or select `TV&amp;Video`
 
-14. Select **OK**.
+14. Select **OK**. 
 
-15. Select **Applicable legal entities**.
+15. Select **Applicable legal entities**. 
 
-16. Select **+New**.
+16. Select **+ New**. 
 
-17. In the **Data area** field, enter or select **USMF**.
+17. In the **Data area** field, enter or select `USMF` 
 
-18. Select **Save**.
+18. Select **Save**. 
 
 19. Close the page.
 
 20. Select **Export**.
 
-21. In the “Batch job scheduled., Select **Close**.
+21. In the **Batch job scheduled**, select **Close**.
 
 22. Select **Refresh** button.
 
@@ -69,21 +69,21 @@ Instructions:
 
 29. Select **Import**.
 
-30. In the **Group name** field, enter **Imported Item group**.
+30. In the **Group name** field, enter `Imported Item group`
 
-31. In the **Description** field, enter **Import an Item group**.
+31. In the **Description** field, enter `Import an item group`
 
-32. Click **Add file**.
+32. Select **Add file**.
 
-33. Click **Upload and Add**.
+33. Select **Upload and Add**.
 
-34. Navigate to Download folder and select the package. Click **Open**.
+34. Navigate to Download folder and select the package. Select **Open**. 
 
 35. Select **Close**.
 
-
-36. Click **View map.**
+36. Select **View map**. 
 
 37. Review the mapping.
 
 38. Close all pages.
+
