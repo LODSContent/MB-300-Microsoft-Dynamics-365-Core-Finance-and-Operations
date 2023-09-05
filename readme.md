@@ -1,3 +1,5 @@
+**This course will be retiring on  **2024/2/29**.  Once course is retired, all GitHub repos will be removed. Thank you.**
+
 # MB-300: Microsoft Dynamics 365 Core Finance and Operations
 
 - **[Download Latest Student Handbook and AllFiles Content](../../releases/latest)**
